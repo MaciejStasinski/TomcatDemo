@@ -7,6 +7,6 @@
 <body>
 <h1><%= "Hello Web!!!!!!!!!!!!" %></h1>
 <br/>
-<a href="servlet">Servlet</a>
+<a href="Servlet">Servlet</a>
 </body>
 </html>
