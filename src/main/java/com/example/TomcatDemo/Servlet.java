@@ -38,3 +38,21 @@ public class Servlet extends HttpServlet {
         }
     }
 }
+//@WebServlet("/path3")
+//public class Servlet extends HttpServlet {
+//    private static final long serialVersionUID = 1L;
+//    @Override
+//    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
+//        PrintWriter responseWriter = resp.getWriter();
+//        responseWriter.write("<html><body>");
+//        responseWriter.write("<p>ContextPath: " + req.getContextPath() + "</p>");
+//        responseWriter.write("<p>ServletPath: " + req.getServletPath() + "</p>");
+//        responseWriter.write("<p>RequestURI: " + req.getRequestURI() + "</p>");
+//        responseWriter.write("<p>RequestURL: " + req.getRequestURL() + "</p>");
+//        responseWriter.write("</body></html>");
+//    }
+//}
+
+
+
+
